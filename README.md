@@ -1,5 +1,5 @@
 # 2002-Project2
-Code for CITS2002 Systems Programming Project 2.
+Code for CITS2002 Systems Programming Project 2 at UWA.
 The goal of this project was to write a command-line utility program in C that locates and reports duplicate files in a chosen directory.
 ## Complile the program via make
 ```
